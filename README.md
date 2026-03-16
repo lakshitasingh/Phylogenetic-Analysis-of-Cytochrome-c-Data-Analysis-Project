@@ -3,3 +3,4 @@ This project performs phylogenetic analysis of the Cytochrome c protein across m
 
 The project demonstrates how computational biology tools and Python-based data analysis can be used to study molecular evolution.
 
+<img width="991" height="845" alt="image" src="https://github.com/user-attachments/assets/263ce5a7-09eb-4c90-863b-9a79277000e4" />
